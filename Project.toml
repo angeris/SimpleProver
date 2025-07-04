@@ -1,0 +1,4 @@
+name = "SimpleProver"
+uuid = "a9518b84-2f06-4f57-b803-7153b1434f5e"
+authors = ["guille "]
+version = "0.1.0"
